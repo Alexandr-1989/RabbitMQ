@@ -58,5 +58,6 @@ $ rabbitmqadmin get queue='hello'
 <img width="1031" height="154" alt="3-5дз" src="https://github.com/user-attachments/assets/7132711e-c1ea-4b9b-b353-5c1f9b0fddd9" />  
 <img width="1031" height="138" alt="3-6дз" src="https://github.com/user-attachments/assets/6829a456-272b-4a50-b221-4941c66d2113" />  
 Отключаем одну ноду   
-<img width="909" height="443" alt="3-9" src="https://github.com/user-attachments/assets/6780df47-3c29-4fde-a889-018ce2cc361d" />  
+ <img width="1481" height="952" alt="Screenshot_13" src="https://github.com/user-attachments/assets/5ab86677-2f1b-401c-85a0-8fa8c09c7459" />
+
 
