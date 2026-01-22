@@ -51,7 +51,12 @@ $ rabbitmqadmin get queue='hello'
 Ответ:  
 Обьединим ноды в кластер и сделаем команду  $ rabbitmqctl cluster_status  
 <img width="926" height="606" alt="3-2дз" src="https://github.com/user-attachments/assets/da9e8edf-6418-406c-ba93-064dbd268b9c" />   
-<img width="891" height="513" alt="3-1дз" src="https://github.com/user-attachments/assets/46f5d9b8-0e68-406e-aec2-ee33742c686e" />   
+<img width="891" height="513" alt="3-1дз" src="https://github.com/user-attachments/assets/46f5d9b8-0e68-406e-aec2-ee33742c686e" />  
+Делаем политику через вкладку admin-politicies  
 <img width="825" height="152" alt="3-4дз" src="https://github.com/user-attachments/assets/79c8fd2b-1ad0-4559-809d-193a50ef8fa6" />  
+Запускаем скрипт producer.py  
+<img width="1031" height="154" alt="3-5дз" src="https://github.com/user-attachments/assets/7132711e-c1ea-4b9b-b353-5c1f9b0fddd9" />  
+<img width="1031" height="138" alt="3-6дз" src="https://github.com/user-attachments/assets/6829a456-272b-4a50-b221-4941c66d2113" />  
+
 
 
