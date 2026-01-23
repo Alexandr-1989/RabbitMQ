@@ -54,11 +54,16 @@ $ rabbitmqadmin get queue='hello'
   
 Делаем политику через вкладку admin-politicies  
 <img width="1241" height="483" alt="Screenshot_7" src="https://github.com/user-attachments/assets/76e1285b-be33-46bd-b7f7-b05e3d07c7fd" />  
+<img width="957" height="973" alt="Screenshot_9" src="https://github.com/user-attachments/assets/e6d28f30-24e9-4a43-ac81-5754c7a16f99" />  
+<img width="790" height="935" alt="Screenshot_10" src="https://github.com/user-attachments/assets/5c0c0c28-1e12-485b-8740-17c0e2507609" />  
   
 Запускаем скрипт producer.py  
-<img width="1031" height="154" alt="3-5дз" src="https://github.com/user-attachments/assets/7132711e-c1ea-4b9b-b353-5c1f9b0fddd9" />  
-<img width="1031" height="138" alt="3-6дз" src="https://github.com/user-attachments/assets/6829a456-272b-4a50-b221-4941c66d2113" />  
+<img width="918" height="113" alt="Screenshot_11" src="https://github.com/user-attachments/assets/a9baddf9-31f9-4e36-a76e-55ed48ea1cc5" />
+<img width="1203" height="136" alt="Screenshot_12" src="https://github.com/user-attachments/assets/a85f50db-fbf0-45af-a496-06b14ab0ccbe" />
+
 Отключаем одну ноду   
- <img width="1481" height="952" alt="Screenshot_13" src="https://github.com/user-attachments/assets/5ab86677-2f1b-401c-85a0-8fa8c09c7459" />
+<img width="1079" height="434" alt="Screenshot_13" src="https://github.com/user-attachments/assets/a2bfa50f-79e3-4a7c-8c2a-1167056c0d9a" />
+<img width="592" height="97" alt="Screenshot_14" src="https://github.com/user-attachments/assets/c7bc0f31-f19a-4113-90c6-c743b1c452c8" />
+
 
 
