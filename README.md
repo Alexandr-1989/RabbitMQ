@@ -22,8 +22,10 @@ $ pip install pika
 В качестве решения домашнего задания приложите оба скриншота, сделанных на этапе выполнения.  
 Для закрепления материала можете попробовать модифицировать скрипты, чтобы поменять название очереди и отправляемое сообщение.  
 Ответ:  
-<img width="812" height="523" alt="Screenshot_15" src="https://github.com/user-attachments/assets/e1429b25-05c6-4453-b504-a36cab20246a" />
-<img width="927" height="621" alt="Screenshot_16" src="https://github.com/user-attachments/assets/f49f18af-2ffe-4641-b07d-9d70ee993cf2" />
+producer.py  
+<img width="812" height="523" alt="Screenshot_15" src="https://github.com/user-attachments/assets/e1429b25-05c6-4453-b504-a36cab20246a" />  
+consumer.py
+<img width="927" height="621" alt="Screenshot_16" src="https://github.com/user-attachments/assets/f49f18af-2ffe-4641-b07d-9d70ee993cf2" />  
 
 
 
