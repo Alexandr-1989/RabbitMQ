@@ -4,7 +4,8 @@
 Добавьте management plug-in и зайдите в веб-интерфейс.  
 Итогом выполнения домашнего задания будет приложенный скриншот веб-интерфейса RabbitMQ.  
 Ответ:  
-<img width="1903" height="855" alt="1дз" src="https://github.com/user-attachments/assets/72d50444-a15f-4334-9d5b-8bc118711687" /> 
+<img width="1720" height="738" alt="Screenshot_1" src="https://github.com/user-attachments/assets/d7d1f806-0348-4fb0-9f93-33c526fdc0fb" />
+
   
 Задание 2. Отправка и получение сообщений  
   
