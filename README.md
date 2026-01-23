@@ -49,12 +49,12 @@ $ rabbitmqctl cluster_status
 $ rabbitmqadmin get queue='hello'  
 После чего попробуйте отключить одну из нод, желательно ту, к которой подключались из скрипта, затем поправьте параметры подключения в скрипте consumer.py на вторую ноду и запустите его.  
   
-Ответ:  
-Обьединим ноды в кластер и сделаем команду  $ rabbitmqctl cluster_status  
-<img width="926" height="606" alt="3-2дз" src="https://github.com/user-attachments/assets/da9e8edf-6418-406c-ba93-064dbd268b9c" />   
- <img width="1482" height="680" alt="Screenshot_12" src="https://github.com/user-attachments/assets/4ef20907-cb22-48ba-8fe8-49dbf7abdc54" />
+Ответ:    
+<img width="1074" height="467" alt="Screenshot_6" src="https://github.com/user-attachments/assets/7c999a4d-7c56-4625-a52e-58ffe7d0d6db" />  
+  
 Делаем политику через вкладку admin-politicies  
-<img width="1367" height="373" alt="Screenshot_11" src="https://github.com/user-attachments/assets/ba49b460-de4f-4634-a96b-10ad5c2c0477" /> 
+<img width="1241" height="483" alt="Screenshot_7" src="https://github.com/user-attachments/assets/76e1285b-be33-46bd-b7f7-b05e3d07c7fd" />  
+  
 Запускаем скрипт producer.py  
 <img width="1031" height="154" alt="3-5дз" src="https://github.com/user-attachments/assets/7132711e-c1ea-4b9b-b353-5c1f9b0fddd9" />  
 <img width="1031" height="138" alt="3-6дз" src="https://github.com/user-attachments/assets/6829a456-272b-4a50-b221-4941c66d2113" />  
