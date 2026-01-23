@@ -53,7 +53,8 @@ $ rabbitmqadmin get queue='hello'
 <img width="1074" height="467" alt="Screenshot_6" src="https://github.com/user-attachments/assets/7c999a4d-7c56-4625-a52e-58ffe7d0d6db" />  
   
 Делаем политику через вкладку admin-politicies  
-<img width="1241" height="483" alt="Screenshot_7" src="https://github.com/user-attachments/assets/76e1285b-be33-46bd-b7f7-b05e3d07c7fd" />  
+<img width="1241" height="483" alt="Screenshot_7" src="https://github.com/user-attachments/assets/76e1285b-be33-46bd-b7f7-b05e3d07c7fd" /> 
+Выполняем команду $ rabbitmqctl cluster_status  
 <img width="957" height="973" alt="Screenshot_9" src="https://github.com/user-attachments/assets/e6d28f30-24e9-4a43-ac81-5754c7a16f99" />  
 <img width="790" height="935" alt="Screenshot_10" src="https://github.com/user-attachments/assets/5c0c0c28-1e12-485b-8740-17c0e2507609" />  
 Выполняем команду $ rabbitmqadmin get queue='hello'  
