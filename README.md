@@ -22,11 +22,10 @@ $ pip install pika
 В качестве решения домашнего задания приложите оба скриншота, сделанных на этапе выполнения.  
 Для закрепления материала можете попробовать модифицировать скрипты, чтобы поменять название очереди и отправляемое сообщение.  
 Ответ:  
-Отправка:  
-  <img width="2022" height="913" alt="Screenshot_3" src="https://github.com/user-attachments/assets/dce22f7f-83d8-4855-b202-dd145c7f71a7" />
-Получение:  
-  
-<img width="1026" height="454" alt="Screenshot_5" src="https://github.com/user-attachments/assets/f5dc5373-1eaf-4c18-84ba-46c3a3457f41" />
+<img width="812" height="523" alt="Screenshot_15" src="https://github.com/user-attachments/assets/3d0dc905-ba4b-48c8-b099-8ba56c71574e" />  
+<img width="927" height="621" alt="Screenshot_16" src="https://github.com/user-attachments/assets/2cd73137-2c42-40cb-b1b9-4ca6695b9b06" />
+
+
 Задание 3. Подготовка HA кластера  
 Используя Vagrant или VirtualBox, создайте вторую виртуальную машину и установите RabbitMQ. Добавьте в файл hosts название и IP-адрес каждой машины, чтобы машины могли видеть друг друга по имени.  
   
